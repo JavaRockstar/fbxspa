@@ -4,6 +4,7 @@ In such a scenario, the attacker can insert port specific payloads and scan a ta
 
 fbxspa is a simple tool which exploit facebook api calls to scan the ports of other domain as well as internal Ip range of facebook.
 only http and https were whitelisted  else it would be possile to map file://, ftp://,ssh:// too
+could  be usefull in origin spoofing attacks.
 ### Version
 1.0
 
