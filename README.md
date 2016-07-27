@@ -8,8 +8,6 @@ it could  be useful in origin spoofing attacks.
 ### Version
 1.0
 
-### Note :
-##This tool is just built for security test  purpose don't misuse it author  will not be responsible for your actions its .
 
 ### Usage
 
@@ -59,3 +57,7 @@ MIT
   http://media.blackhat.com/bh-us-12/Briefings/Polyakov/BH_US_12_Polyakov_SSRF_Business_Slides.pdf
   http://niiconsulting.com/checkmate/2015/04/server-side-request-forgery-ssrf/
   https://ibreak.software/2012/11/07/cross-site-port-attacks-xspa-part-1/
+  
+### Note :
+###This tool is just built for security test  purpose don't misuse it author  will not be responsible for your actions .
+  
