@@ -8,7 +8,8 @@ it could  be useful in origin spoofing attacks.
 ### Version
 1.0
 
-
+### Note :
+##This tool is just built for security test  purpose don't misuse it author  will not be responsible for your actions its .
 
 ### Usage
 
