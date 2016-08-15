@@ -24,7 +24,7 @@ $ start_port>>> 21
 $ end_port>>> 80
 $ Scanning started
 [+]Port 21 open
-[+]Port 21 closed
+[+]Port 22 closed
 .......
 
 
