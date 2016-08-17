@@ -11,7 +11,7 @@ print ''' .____ _
  |     |    `        /\    `--.  |    | |    |
  /     `___,'       /  \  \___.' |`---' `.__/|
  
- [+]by c0mrade'''
+ [+]coded by Vishwaraj Bhattrai- @vishwaraj101 '''
 
 
 def fb_scan_range(ip,port):
